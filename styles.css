@@ -17,14 +17,14 @@ body {
   width: 80vh;
   height: 80vh;
 
-  border: solid red 1px;
+  border: solid black 1px;
   margin-top: 20px;
 }
 
 .btn {
-  background-color: rgb(142, 110, 238);
+  background-color: white;
   border: none;
-  color: white;
+  color: #444;
   padding: 15px 32px;
   text-transform: capitalize;
   text-align: center;
